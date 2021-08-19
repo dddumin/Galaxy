@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Planets>
+    <EqualGroup name="Qwerer" number="1">
+        <Planet>
+            <Name>Qwerer</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>true</ForHuman>
+            <PercentAreaForLife>11.0</PercentAreaForLife>
+            <PercentWater>16.0</PercentWater>
+        </Planet>
+        <Planet>
+            <Name>Qwerer</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>true</ForHuman>
+            <PercentAreaForLife>11.0</PercentAreaForLife>
+            <PercentWater>16.0</PercentWater>
+        </Planet>
+        <Planet>
+            <Name>Qwerer</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>true</ForHuman>
+            <PercentAreaForLife>11.0</PercentAreaForLife>
+            <PercentWater>16.0</PercentWater>
+        </Planet>
+    </EqualGroup>
+    <EqualGroup name="Yogasana Vijnana: the Science of Yoga" number="2">
+        <Planet>
+            <Name>Yogasana Vijnana: the Science of Yoga</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>false</ForHuman>
+            <PercentAreaForLife>25.0</PercentAreaForLife>
+            <PercentWater>11.0</PercentWater>
+        </Planet>
+        <Planet>
+            <Name>Yogasana Vijnana: the Science of Yoga</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>false</ForHuman>
+            <PercentAreaForLife>25.0</PercentAreaForLife>
+            <PercentWater>11.0</PercentWater>
+        </Planet>
+        <Planet>
+            <Name>Yogasana Vijnana: the Science of Yoga</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>false</ForHuman>
+            <PercentAreaForLife>35.0</PercentAreaForLife>
+            <PercentWater>11.0</PercentWater>
+        </Planet>
+    </EqualGroup>
+    <EqualGroup name="gfdsdgnn" number="3">
+        <Planet>
+            <Name>gfdsdgnn</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>true</ForHuman>
+            <PercentAreaForLife>11.0</PercentAreaForLife>
+            <PercentWater>16.0</PercentWater>
+        </Planet>
+    </EqualGroup>
+    <EqualGroup name="gfdsdgmm" number="4">
+        <Planet>
+            <Name>gfdsdgmm</Name>
+            <Diameter>12500.0</Diameter>
+            <ForHuman>true</ForHuman>
+            <PercentAreaForLife>11.0</PercentAreaForLife>
+            <PercentWater>16.0</PercentWater>
+        </Planet>
+    </EqualGroup>
+</Planets>

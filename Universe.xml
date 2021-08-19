@@ -1,0 +1,75 @@
+<Universe>
+    <Name>Universetest</Name>
+    <Galaxy>
+        <Name>GalaxyOne</Name>
+        <Planets>
+            <Planet>
+                <Name>Qwerer</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>true</ForHuman>
+                <PercentAreaForLife>11</PercentAreaForLife>
+                <PercentWater>16</PercentWater>
+            </Planet>
+            <Planet>
+                <Name>Yogasana Vijnana: the Science of Yoga</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>false</ForHuman>
+                <PercentAreaForLife>25</PercentAreaForLife>
+                <PercentWater>11</PercentWater>
+            </Planet>
+        </Planets>
+    </Galaxy>
+    <Galaxy>
+        <Name>GalaxyTwo</Name>
+        <Planets>
+            <Planet>
+                <Name>Qwerer</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>true</ForHuman>
+                <PercentAreaForLife>11</PercentAreaForLife>
+                <PercentWater>16</PercentWater>
+            </Planet>
+            <Planet>
+                <Name>gfdsdgnn</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>true</ForHuman>
+                <PercentAreaForLife>11</PercentAreaForLife>
+                <PercentWater>16</PercentWater>
+            </Planet>
+            <Planet>
+                <Name>Yogasana Vijnana: the Science of Yoga</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>false</ForHuman>
+                <PercentAreaForLife>25</PercentAreaForLife>
+                <PercentWater>11</PercentWater>
+            </Planet>
+        </Planets>
+    </Galaxy>
+
+    <Galaxy>
+        <Name>GalaxyThree</Name>
+        <Planets>
+            <Planet>
+                <Name>Qwerer</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>true</ForHuman>
+                <PercentAreaForLife>11</PercentAreaForLife>
+                <PercentWater>16</PercentWater>
+            </Planet>
+            <Planet>
+                <Name>gfdsdgmm</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>true</ForHuman>
+                <PercentAreaForLife>11</PercentAreaForLife>
+                <PercentWater>16</PercentWater>
+            </Planet>
+            <Planet>
+                <Name>Yogasana Vijnana: the Science of Yoga</Name>
+                <Diameter>12500</Diameter>
+                <ForHuman>false</ForHuman>
+                <PercentAreaForLife>35</PercentAreaForLife>
+                <PercentWater>11</PercentWater>
+            </Planet>
+        </Planets>
+    </Galaxy>
+</Universe>
